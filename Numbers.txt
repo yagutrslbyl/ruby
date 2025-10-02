@@ -1,1 +1,1 @@
-cuatro, cinco, seis, ocho, nueve, diez
+once,doce,trece
